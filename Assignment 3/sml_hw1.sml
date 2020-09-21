@@ -1,4 +1,3 @@
-(* Name: Sahil Yadav *)
 
 (* #1 - pow *)
 (* pow takes two integer arguments and then returns first integer raised to the second integer. *)
