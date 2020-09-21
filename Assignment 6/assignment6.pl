@@ -1,4 +1,3 @@
-%Sahil Yadav
 
 /*
 Problem 12 oddSize(X)

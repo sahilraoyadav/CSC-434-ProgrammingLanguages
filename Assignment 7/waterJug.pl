@@ -1,4 +1,3 @@
-/* Name: Sahil Yadav*/
 /*
  *
  * [a,b] - represents a problem state with a gallons in the 4-gallon jug

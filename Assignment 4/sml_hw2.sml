@@ -1,4 +1,3 @@
-(* Sahil Yadav *)
 
 (* #1 - quicksort *)
 (*
